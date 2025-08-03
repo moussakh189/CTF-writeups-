@@ -43,7 +43,7 @@ Password: anonymous
 
 ---
 
-## 💾 Redeemer
+## Redeemer
 
 ### IP: `10.129.95.147`
 
@@ -102,7 +102,7 @@ gobuster dir -u http://10.129.211.165 -w /usr/share/wordlists/dirbuster/director
 
 ---
 
-##  Tools Summary
+## tools Summary
 
 | Tool       | Purpose                                 | Usage Example |
 |------------|-----------------------------------------|---------------|
